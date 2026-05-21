@@ -11,9 +11,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/alexstha103" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexstha103" height="30" width="40" />
-  </a>
+  
   <a href="https://linkedin.com/in/alexstha310" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexstha310" height="30" width="40" />
   </a>
@@ -25,6 +23,9 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   <a href="https://www.facebook.com/alex.stha.3107" target="blank">
     <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/facebook.svg" alt="alexstha310" height="30" width="40" />
   </a>
+  <a href="https://twitter.com/alexstha103" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexstha103" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -34,7 +35,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img width="28" height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" />
+    <img width="28" height="28" src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-svg-download-png-282599.png?f=webp" alt="React" />
   </a>
 
 
