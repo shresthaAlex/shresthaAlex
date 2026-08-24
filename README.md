@@ -50,7 +50,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
   
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express" width="28" height="28" />
+    <img src="https://avatars.githubusercontent.com/u/5658226?s=280&v=4" alt="Express" width="28" height="28" />
   </a>
 
 
@@ -127,7 +127,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 -->
     
   <p align>
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shresthaAlex&layout=compact&theme=midnight-purple&hide_border=true"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shresthaAlex&theme=midnight_purple"/>
 </p>
 
 <!--
