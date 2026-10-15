@@ -86,7 +86,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
   <!-- LangGraph -->
 <a href="https://langgraph.dev/" target="_blank" rel="noreferrer">
-  <img src="https://humancoders-formations.s3.eu-west-1.amazonaws.com/uploads/course/logo/3714/formation-langgraph.png" alt="LangGraph" width="28" height="28" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langgraph-color.png" alt="LangGraph" width="28" height="28" />
 </a>
 
 <!-- Git -->
