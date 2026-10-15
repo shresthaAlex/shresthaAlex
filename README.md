@@ -86,7 +86,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
   <!-- LangGraph -->
 <a href="https://langgraph.dev/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langgraph-color.png" alt="LangGraph" width="28" height="28" />
+  <img src="https://cdn.shakudo.io/images/integrations/langgraph-logo.svg" alt="LangGraph" width="28" height="28" />
 </a>
 
 <!-- Git -->
@@ -110,11 +110,11 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 </a>
 -->
 
+<!--
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo.png" alt="AWS" width="28" height="28" />
 </a>
-
-
+-->
 
 </p>
 
