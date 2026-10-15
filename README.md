@@ -1,8 +1,15 @@
 <h1 align="center">
-Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Alex Shrestha</a>
+  Hi 👋, I'm Alex Shrestha
 </h1>
-<h3 align="center"> Software Engineer from Nepal</h3>
 
+<h3 align="center">
+  Computer Engineering Student @ IOE Pulchowk Campus |
+  Full-Stack Developer | AI Software Engineer
+</h3>
+
+<p align="center">
+  Building AI-powered web and mobile applications.
+</p>
 
 
 - 👨‍💻  My projects are available at [My Projects](https://www.alex-shrestha.com.np/#projects)
