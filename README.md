@@ -86,7 +86,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
   <!-- LangGraph -->
 <a href="https://langgraph.dev/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-langgraph-langchain-icon-svg-download-png-14518119.png?f=webp&w=128" alt="LangGraph" width="28" height="28" />
+  <img src="https://cdn.prod.website-files.com/68d34212c350b4c0309e75be/68fe9e25cfc8ac7f8bfe02ad_langgraph.png" alt="LangGraph" width="28" height="28" />
 </a>
 
 <!-- Git -->
