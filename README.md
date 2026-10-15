@@ -86,7 +86,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
   <!-- LangGraph -->
 <a href="https://langgraph.dev/" target="_blank" rel="noreferrer">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="LangGraph" width="28" height="28" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langgraph-color.png" alt="LangGraph" width="28" height="28" />
 </a>
 
 <!-- Git -->
@@ -109,11 +109,11 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="28" height="28" />
 </a>
 -->
-<!-- AWS 
+
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo.png" alt="AWS" width="28" height="28" />
 </a>
--->
+
 
 
 </p>
