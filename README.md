@@ -3,8 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Computer Engineering Student @ IOE Pulchowk Campus |
-  Full-Stack Developer | AI Software Engineer
+  Computer Engineering Student @ IOE Pulchowk Campus | AI Engineer | Software Engineer | Full-Stack Developer 
 </h3>
 
 <p align="center">
